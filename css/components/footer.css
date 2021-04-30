@@ -1,0 +1,21 @@
+.footer {
+  padding: 64px;
+  text-align: center;
+  background-color: rgb(220, 220, 220);
+  font-size: 16px;
+}
+
+.links .fab {
+  font-size: 42px;
+  color: rgba(40, 40, 40, .7);
+  padding: 16px;
+  transition: 0.3s;
+}
+
+.links .fab:hover {
+  color: rgba(40, 40, 40, 1.0);
+}
+
+.footer p .fas {
+  color: red;
+}

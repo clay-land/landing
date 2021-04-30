@@ -1,0 +1,17 @@
+
+.banner {
+  background-image: url('https://source.unsplash.com/random');
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.container p {
+  margin-bottom: 25px;
+}
